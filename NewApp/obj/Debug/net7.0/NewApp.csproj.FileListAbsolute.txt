@@ -1,0 +1,15 @@
+/Users/a.dung/API/Net_Core_API/NewApp/bin/Debug/net7.0/NewApp
+/Users/a.dung/API/Net_Core_API/NewApp/bin/Debug/net7.0/NewApp.deps.json
+/Users/a.dung/API/Net_Core_API/NewApp/bin/Debug/net7.0/NewApp.runtimeconfig.json
+/Users/a.dung/API/Net_Core_API/NewApp/bin/Debug/net7.0/NewApp.dll
+/Users/a.dung/API/Net_Core_API/NewApp/bin/Debug/net7.0/NewApp.pdb
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.csproj.AssemblyReference.cache
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.AssemblyInfoInputs.cache
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.AssemblyInfo.cs
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.csproj.CoreCompileInputs.cache
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.dll
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/refint/NewApp.dll
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.pdb
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/NewApp.genruntimeconfig.cache
+/Users/a.dung/API/Net_Core_API/NewApp/obj/Debug/net7.0/ref/NewApp.dll
